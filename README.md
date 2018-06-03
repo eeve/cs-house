@@ -2,6 +2,10 @@
 
 
 ## 遇见长沙
+- 地理位置
+
+    ![地理位置](./images/position.png)
+
 - 行政区划
 
     ![行政区划图](./images/readme-xingzhengquhua.jpg)
@@ -18,9 +22,11 @@
     ![限购区域](./images/readme-xiangouquyu.jpg)
 
 - 中心城区
+
     一般是指内五区（芙蓉区，岳麓区，天心区，开福区，雨花区）
 
 - 副中心
+
     梅溪湖国际新城二期
 
 
