@@ -59,4 +59,9 @@
 [点击查看](./docs/房产媒体.md)
 
 ## 关于数据
-数据收集自互联网，如发现有侵犯到您的正当权益，请及时联系我删除
+数据收集自互联网，如发现有侵犯到您的正当权益，请及时联系我删除。
+
+数据无法保证做到100%准确，部分信息也存在时效性，错误的地方请多多包含。
+
+## 致谢
+感谢 [houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) 项目提供部分参考资料
