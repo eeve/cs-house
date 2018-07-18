@@ -8,7 +8,7 @@
 所以，买房有时候也像爱情一样，需要点缘分，也需要点毅力，希望各位在摇号选房的路上不要失望，不要盲目，适合你的也许就在前方。
 
 
-> 有些资料未能及时更新，仅供参考，具体请自行查阅相关资料。
+> 有些资料未能及时更新，仅供参考，如与实际情况存在出入，请以实际为准。
 
 
 ## 遇见长沙
@@ -74,10 +74,9 @@
 
 [点击查看](./docs/房产媒体.md)
 
-## 关于数据
+## 关于数据 & 致谢
+
 数据收集自互联网，如发现有侵犯到您的正当权益，请及时联系我删除。
+数据收集自互联网，难免存在纰漏，部分信息也存在时效性问题，若发现，烦请指正，谢谢！
 
-数据无法保证做到100%准确，部分信息也存在时效性，错误的地方请多多包含。
-
-## 致谢
-感谢 [houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) 项目提供部分参考资料
+最后，感谢 [houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) 项目提供部分参考资料
